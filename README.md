@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @giovannalia
-- 👀  I’m interested in linguistics, coding and mathematics 
+- 👀  I’m interested in linguistics, classical studies, coding and mathematics 
 - 🌱  I’m currently learning Python!
 - 💞️  I’m a beginner and want to improve my coding and document my journey 
 - 📫  Contact: liagiovannalia@gmail.com or giovannaiglesias@usp.br
